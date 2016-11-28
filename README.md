@@ -1,0 +1,2 @@
+# django
+Làm quen django
